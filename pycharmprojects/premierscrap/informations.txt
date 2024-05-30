@@ -1,0 +1,7 @@
+46 000km,04.2022,Diesel,Automatique,12cv,Intégrale,SUV/4x4,25.03.2024,Sfax,Hyundai,Santa Fe,Gris Shark,Noir,Cuir intégral,7,5,230 000DT
+40 000km,02.2021,Hybride essence,Automatique,12cv,Propulsion,Coupé,26.03.2024,Tunis,Mercedes-Benz,Classe E coupé,(238) Phase 2 Coupé(09/2020 - Aujourd'hui),Blanc,Rouge,Cuir intégral,4,2,2000cm³,250 000DT
+125 000DT
+130 000km,02.2017,Diesel,Automatique,6cv,Traction,Berline,26.03.2024,Tunis,Mercedes-Benz,CLA,(117) Coupé Phase 2(02/2016 - 05/2019),Blanc,Noir,Alcantara,5,4,200 CDi 2.1 CDI 16V 7G-DCT,136ch dyn,1600cm³,125 000DT
+410 000DT
+40 000km,02.2020,Hybride essence,Automatique,17cv,Propulsion,SUV/4x4,26.03.2024,Tunis,Land Rover,Range Rover Sport,Sport II Phase 2(02/2017 - 04/2022),Blanc,Noir,Cuir intégral,5,5,P400e 2.0 16V 404 Hybrid,300ch dyn,404ch dyn,2000cm³,410 000DT
+410 000DT
